@@ -11,7 +11,7 @@ Statistics is the science of collecting, organizing and analyzing data.
   - Measure of central tendency (mean, median, mode)
   - Measure of dispersion (variance, standard deviation)
   - Different types of distribution of data like histogram, pdf, probability mass function
-- **\*\***\*\*\*\***\*\***Inferential Statistics →**\*\***\*\*\*\***\*\*** It consists of using data you have measured to form conclusion
+- **Inferential Statistics →** It consists of using data you have measured to form conclusion
   - Hypothesis testing → z-test, t-test, h0, h1, p value, significance value
   - chi square test
 
