@@ -1,6 +1,8 @@
+
 ---
 ## 1. What is Statistics?
 Statistics is the science of collecting, organizing and analyzing data.
+
 ---
 
 ## 2. Define the different types of statistics and give an example of when each type might be used.
